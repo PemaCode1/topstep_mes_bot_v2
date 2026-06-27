@@ -1,0 +1,1516 @@
+[2026-06-26 18:19:24] [INFO] Starting MES bot backtest/paper simulation.
+[2026-06-26 18:19:24] [INFO] New session: 2026-06-24
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000001 SHORT 1x entry=5979.25 stop=5983.25 target=5973.25 strategy=ORB_SHORT | Close broke OR low 5979.75 with EMA trend filter.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000002 LONG 1x entry=5983.50 stop=5979.50 target=5989.50 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:19:24] [INFO] New session: 2026-06-25
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000003 SHORT 1x entry=5968.25 stop=5972.25 target=5962.25 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:19:24] [INFO] New session: 2026-06-26
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000004 LONG 1x entry=6021.75 stop=6017.75 target=6027.75 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000005 LONG 1x entry=6026.00 stop=6022.00 target=6032.00 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:19:24] [INFO] OPEN PAPER-000006 SHORT 1x entry=6021.75 stop=6025.75 target=6015.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:19:24] [INFO] Session flatten PAPER-000006: PnL=$20.00
+[2026-06-26 18:19:24] [INFO] Finished simulation: {'trades': 6, 'wins': 4, 'losses': 2, 'win_rate': 66.67, 'total_pnl': 70.0, 'avg_pnl': 11.67, 'by_strategy': {'ORB_SHORT': -20.0, 'EMA_PULLBACK_LONG': 40.0, 'EMA_PULLBACK_SHORT': 50.0}}
+[2026-06-26 18:44:09] [INFO] Starting MES bot backtest/paper simulation.
+[2026-06-26 18:44:09] [INFO] New session: 2026-06-22
+[2026-06-26 18:44:09] [INFO] OPEN PAPER-000001 SHORT 1x entry=5979.25 stop=5983.25 target=5973.25 strategy=ORB_SHORT | Close broke OR low 5979.75 with EMA trend filter.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:09] [INFO] OPEN PAPER-000002 LONG 1x entry=5983.50 stop=5979.50 target=5989.50 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:44:09] [INFO] New session: 2026-06-23
+[2026-06-26 18:44:09] [INFO] OPEN PAPER-000003 SHORT 1x entry=5968.25 stop=5972.25 target=5962.25 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:44:09] [INFO] New session: 2026-06-24
+[2026-06-26 18:44:09] [INFO] OPEN PAPER-000004 LONG 1x entry=6021.75 stop=6017.75 target=6027.75 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$30.00
+[2026-06-26 18:44:09] [INFO] OPEN PAPER-000005 LONG 1x entry=6026.00 stop=6022.00 target=6032.00 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:09] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:10] [INFO] OPEN PAPER-000006 SHORT 1x entry=6021.75 stop=6025.75 target=6015.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Session flatten PAPER-000006: PnL=$20.00
+[2026-06-26 18:44:10] [INFO] New session: 2026-06-25
+[2026-06-26 18:44:10] [INFO] OPEN PAPER-000007 SHORT 1x entry=5997.75 stop=6001.75 target=5991.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:10] [INFO] OPEN PAPER-000008 LONG 1x entry=6002.75 stop=5998.75 target=6008.75 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:44:10] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] New session: 2026-06-26
+[2026-06-26 18:44:10] [INFO] OPEN PAPER-000009 LONG 1x entry=6019.50 stop=6015.50 target=6025.50 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:10] [INFO] OPEN PAPER-000010 SHORT 1x entry=6013.50 stop=6017.50 target=6007.50 strategy=ORB_SHORT | Close broke OR low 6015.75 with EMA trend filter.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:44:10] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-20.00
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:44:10] [INFO] Finished simulation: {'trades': 10, 'wins': 4, 'losses': 6, 'win_rate': 40.0, 'total_pnl': -10.0, 'avg_pnl': -1.0, 'by_strategy': {'ORB_SHORT': -40.0, 'EMA_PULLBACK_LONG': 0.0, 'EMA_PULLBACK_SHORT': 30.0}}
+[2026-06-26 18:55:41] [INFO] Starting MES bot backtest/paper simulation.
+[2026-06-26 18:55:41] [INFO] New session: 2026-06-22
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.25 stop=5980.75 target=5974.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000002 SHORT 1x entry=5979.00 stop=5981.50 target=5975.50 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$17.50
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] New session: 2026-06-23
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000003 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$17.50
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000004 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] New session: 2026-06-24
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000005 LONG 1x entry=6024.50 stop=6022.00 target=6028.00 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000005: TAKE_PROFIT PnL=$17.50
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000006 LONG 1x entry=6026.00 stop=6023.50 target=6029.50 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] New session: 2026-06-25
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000007 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000008 LONG 1x entry=6002.75 stop=6000.25 target=6006.25 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] Signal rejected: BOT LOCKED: Consecutive loss limit hit after trade close.
+[2026-06-26 18:55:41] [INFO] New session: 2026-06-26
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000009 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=EMA_PULLBACK_LONG | Trend up, pullback touched fast EMA, candle reclaimed EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-12.50
+[2026-06-26 18:55:41] [INFO] OPEN PAPER-000010 SHORT 1x entry=6013.75 stop=6016.25 target=6010.25 strategy=EMA_PULLBACK_SHORT | Trend down, pullback touched fast EMA, candle rejected EMA.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Open position exists. One trade at a time only.
+[2026-06-26 18:55:41] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$17.50
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Signal rejected: Max trades per day reached.
+[2026-06-26 18:55:41] [INFO] Finished simulation: {'trades': 10, 'wins': 4, 'losses': 6, 'win_rate': 40.0, 'total_pnl': -5.0, 'avg_pnl': -0.5, 'by_strategy': {'EMA_PULLBACK_SHORT': 15.0, 'EMA_PULLBACK_LONG': -20.0}}
+[2026-06-26 19:26:23] [INFO] New session: 2026-06-22
+[2026-06-26 19:26:23] [INFO] New session: 2026-06-23
+[2026-06-26 19:26:23] [INFO] New session: 2026-06-24
+[2026-06-26 19:26:23] [INFO] New session: 2026-06-25
+[2026-06-26 19:26:23] [INFO] New session: 2026-06-26
+[2026-06-26 19:37:53] [INFO] New session: 2026-06-22
+[2026-06-26 19:40:57] [INFO] New session: 2026-06-22
+[2026-06-26 19:42:31] [INFO] New session: 2026-06-22
+[2026-06-26 19:43:59] [INFO] New session: 2026-06-22
+[2026-06-26 19:46:46] [INFO] New session: 2026-06-22
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; VWAP rejection
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=3: EMA/VWAP pullback; VWAP rejection
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] New session: 2026-06-23
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000004 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000006 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] New session: 2026-06-24
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000007 LONG 1x entry=6024.50 stop=6022.00 target=6028.00 strategy=CONFLUENCE_LONG | Long confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000008 LONG 1x entry=6025.25 stop=6022.75 target=6028.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] New session: 2026-06-25
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000010 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000011 SHORT 1x entry=5999.25 stop=6001.75 target=5995.75 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000012 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000013 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000013: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000014 SHORT 1x entry=5994.25 stop=5996.75 target=5990.75 strategy=CONFLUENCE_SHORT | Short confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] New session: 2026-06-26
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000015 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=CONFLUENCE_LONG | Long confluence score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000016 LONG 1x entry=6013.00 stop=6010.50 target=6016.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000016: TAKE_PROFIT PnL=$15.00
+[2026-06-26 19:46:46] [INFO] OPEN PAPER-000017 LONG 1x entry=6016.75 stop=6014.25 target=6020.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP pullback
+[2026-06-26 19:46:46] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$15.00
+[2026-06-26 20:12:29] [INFO] New session: 2026-06-22
+[2026-06-26 20:12:29] [INFO] New session: 2026-06-23
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000001 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=CONFLUENCE_SHORT | TREND_DOWN short score=3: EMA/VWAP pullback; opening-drive pullback
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000001: TAKE_PROFIT PnL=$15.00
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000002 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | TREND_DOWN short score=4: EMA/VWAP pullback; momentum continuation; opening-drive pullback
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000002: STOP_LOSS PnL=$-15.00
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000003 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=CONFLUENCE_SHORT | TREND_DOWN short score=4: EMA/VWAP pullback; momentum continuation; opening-drive pullback
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-26 20:12:29] [INFO] New session: 2026-06-24
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000004 LONG 1x entry=6025.25 stop=6022.75 target=6028.75 strategy=CONFLUENCE_LONG | TREND_UP long score=2: EMA/VWAP pullback
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-26 20:12:29] [INFO] New session: 2026-06-25
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000005 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | TREND_DOWN short score=3: EMA/VWAP pullback; opening-drive pullback
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 20:12:29] [INFO] OPEN PAPER-000006 SHORT 1x entry=6001.25 stop=6003.75 target=5997.75 strategy=CONFLUENCE_SHORT | RANGE short score=4: liquidity sweep/reject; failed breakout reject
+[2026-06-26 20:12:29] [INFO] Closed PAPER-000006: TAKE_PROFIT PnL=$15.00
+[2026-06-26 20:12:30] [INFO] New session: 2026-06-26
+[2026-06-26 20:12:30] [INFO] OPEN PAPER-000007 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=CONFLUENCE_LONG | TREND_UP long score=3: EMA/VWAP pullback; momentum continuation
+[2026-06-26 20:12:30] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-26 20:12:30] [INFO] OPEN PAPER-000008 LONG 1x entry=6013.75 stop=6011.25 target=6017.25 strategy=CONFLUENCE_LONG | RANGE long score=4: liquidity sweep/reclaim; failed breakdown reclaim
+[2026-06-26 20:12:30] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] New session: 2026-06-22
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] New session: 2026-06-23
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000004 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000006 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] New session: 2026-06-24
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000007 LONG 1x entry=6024.50 stop=6022.00 target=6028.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000008 LONG 1x entry=6025.25 stop=6022.75 target=6028.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] New session: 2026-06-25
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000010 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000011 SHORT 1x entry=6001.25 stop=6003.75 target=5997.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000012 SHORT 1x entry=5999.25 stop=6001.75 target=5995.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000012: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000013 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000014 SHORT 1x entry=5998.25 stop=6000.75 target=5994.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:15:55] [INFO] New session: 2026-06-26
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000015 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:15:55] [INFO] OPEN PAPER-000016 LONG 1x entry=6013.75 stop=6011.25 target=6017.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 21:15:55] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:41] [INFO] New session: 2026-06-22
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:41] [INFO] New session: 2026-06-23
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000004 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:41] [INFO] OPEN PAPER-000006 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:41] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] New session: 2026-06-24
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000007 LONG 1x entry=6024.50 stop=6022.00 target=6028.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000008 LONG 1x entry=6025.25 stop=6022.75 target=6028.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] New session: 2026-06-25
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000010 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000011 SHORT 1x entry=6001.25 stop=6003.75 target=5997.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000012 SHORT 1x entry=5999.25 stop=6001.75 target=5995.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000012: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000013 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000014 SHORT 1x entry=5998.25 stop=6000.75 target=5994.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 21:19:42] [INFO] New session: 2026-06-26
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000015 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-26 21:19:42] [INFO] OPEN PAPER-000016 LONG 1x entry=6013.75 stop=6011.25 target=6017.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 21:19:42] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:32] [INFO] New session: 2026-06-22
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:32] [INFO] New session: 2026-06-23
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000004 SHORT 1x entry=5968.25 stop=5970.75 target=5964.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000006 SHORT 1x entry=5965.50 stop=5968.00 target=5962.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:32] [INFO] New session: 2026-06-24
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000007 LONG 1x entry=6024.50 stop=6022.00 target=6028.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000008 LONG 1x entry=6025.25 stop=6022.75 target=6028.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:32] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:32] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:33] [INFO] New session: 2026-06-25
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000010 SHORT 1x entry=5997.25 stop=5999.75 target=5993.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000011 SHORT 1x entry=6001.25 stop=6003.75 target=5997.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000012 SHORT 1x entry=5999.25 stop=6001.75 target=5995.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000012: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000013 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000014 SHORT 1x entry=5998.25 stop=6000.75 target=5994.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:19:33] [INFO] New session: 2026-06-26
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000015 LONG 1x entry=6019.50 stop=6017.00 target=6023.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:19:33] [INFO] OPEN PAPER-000016 LONG 1x entry=6013.75 stop=6011.25 target=6017.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:19:33] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] New session: 2026-06-22
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] New session: 2026-06-23
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000004 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.50 stop=5967.00 target=5961.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] New session: 2026-06-24
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000006 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000007 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000008 SHORT 1x entry=6028.25 stop=6030.75 target=6024.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000008: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000010 SHORT 1x entry=6023.00 stop=6025.50 target=6019.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] New session: 2026-06-25
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000011 SHORT 1x entry=5998.75 stop=6001.25 target=5995.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000012 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000013 SHORT 1x entry=5998.25 stop=6000.75 target=5994.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000013: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000014 SHORT 1x entry=5995.25 stop=5997.75 target=5991.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000015 SHORT 1x entry=5991.75 stop=5994.25 target=5988.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000015: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] New session: 2026-06-26
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000016 SHORT 1x entry=6012.25 stop=6014.75 target=6008.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000016: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000017 LONG 1x entry=6012.00 stop=6009.50 target=6015.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000018 LONG 1x entry=6016.75 stop=6014.25 target=6020.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000018: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:23:20] [INFO] OPEN PAPER-000019 LONG 1x entry=6017.75 stop=6015.25 target=6021.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:23:20] [INFO] Closed PAPER-000019: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] New session: 2026-06-22
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000001 SHORT 1x entry=5978.75 stop=5981.25 target=5975.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000002 LONG 1x entry=5981.75 stop=5979.25 target=5985.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000003 LONG 1x entry=5985.50 stop=5983.00 target=5989.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] New session: 2026-06-23
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000004 SHORT 1x entry=5964.25 stop=5966.75 target=5960.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000005 SHORT 1x entry=5964.50 stop=5967.00 target=5961.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] New session: 2026-06-24
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000006 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000007 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000008 SHORT 1x entry=6028.25 stop=6030.75 target=6024.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000008: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000009 LONG 1x entry=6025.50 stop=6023.00 target=6029.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000010 SHORT 1x entry=6023.00 stop=6025.50 target=6019.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] New session: 2026-06-25
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000011 SHORT 1x entry=5998.75 stop=6001.25 target=5995.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000012 SHORT 1x entry=5996.00 stop=5998.50 target=5992.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000013 SHORT 1x entry=5998.25 stop=6000.75 target=5994.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000013: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000014 SHORT 1x entry=5995.25 stop=5997.75 target=5991.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000014: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000015 SHORT 1x entry=5991.75 stop=5994.25 target=5988.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000015: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] New session: 2026-06-26
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000016 SHORT 1x entry=6012.25 stop=6014.75 target=6008.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000016: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000017 LONG 1x entry=6012.00 stop=6009.50 target=6015.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000018 LONG 1x entry=6016.75 stop=6014.25 target=6020.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000018: TAKE_PROFIT PnL=$15.00
+[2026-06-26 22:39:44] [INFO] OPEN PAPER-000019 LONG 1x entry=6017.75 stop=6015.25 target=6021.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-26 22:39:44] [INFO] Closed PAPER-000019: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-19
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000001 LONG 1x entry=7560.25 stop=7557.75 target=7563.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000002 LONG 1x entry=7559.50 stop=7557.00 target=7563.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000003 LONG 1x entry=7561.25 stop=7558.75 target=7564.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000004 LONG 1x entry=7557.75 stop=7555.25 target=7561.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000005 LONG 1x entry=7561.00 stop=7558.50 target=7564.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-21
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-22
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000006 SHORT 1x entry=7591.75 stop=7594.25 target=7588.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: liquidity sweep reject
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000006: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000007 LONG 1x entry=7590.50 stop=7588.00 target=7594.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000008 LONG 1x entry=7591.50 stop=7589.00 target=7595.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-23
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000009 SHORT 1x entry=7457.75 stop=7460.25 target=7454.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000010 SHORT 1x entry=7462.75 stop=7465.25 target=7459.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000011 LONG 1x entry=7459.25 stop=7456.75 target=7462.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000012 LONG 1x entry=7462.75 stop=7460.25 target=7466.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000012: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000013 LONG 1x entry=7465.25 stop=7462.75 target=7468.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000013: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-24
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000014 SHORT 1x entry=7448.75 stop=7451.25 target=7445.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000015 SHORT 1x entry=7454.00 stop=7456.50 target=7450.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: liquidity sweep reject
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-25
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000016 LONG 1x entry=7451.25 stop=7448.75 target=7454.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000017 LONG 1x entry=7460.75 stop=7458.25 target=7464.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000018 LONG 1x entry=7461.00 stop=7458.50 target=7464.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000018: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000019 LONG 1x entry=7463.00 stop=7460.50 target=7466.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] New session: 2026-06-26
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000020 LONG 1x entry=7386.25 stop=7383.75 target=7389.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000020: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000021 LONG 1x entry=7385.75 stop=7383.25 target=7389.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000021: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000022 LONG 1x entry=7408.75 stop=7406.25 target=7412.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000022: STOP_LOSS PnL=$-15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000023 SHORT 1x entry=7420.50 stop=7423.00 target=7417.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000023: TAKE_PROFIT PnL=$15.00
+[2026-06-27 00:26:57] [INFO] OPEN PAPER-000024 LONG 1x entry=7425.00 stop=7422.50 target=7428.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 00:26:57] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-19
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000001 LONG 1x entry=7557.75 stop=7555.25 target=7561.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000001: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000002 LONG 1x entry=7558.50 stop=7556.00 target=7562.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000003 SHORT 1x entry=7562.00 stop=7564.50 target=7558.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000004 SHORT 1x entry=7565.50 stop=7568.00 target=7562.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000005 LONG 1x entry=7560.75 stop=7558.25 target=7564.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-21
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-22
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000006 SHORT 1x entry=7593.75 stop=7596.25 target=7590.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000007 LONG 1x entry=7572.25 stop=7569.75 target=7575.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-23
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000008 SHORT 1x entry=7457.75 stop=7460.25 target=7454.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000009 SHORT 1x entry=7462.75 stop=7465.25 target=7459.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000009: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000010 SHORT 1x entry=7473.75 stop=7476.25 target=7470.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000011 SHORT 1x entry=7478.00 stop=7480.50 target=7474.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000011: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-24
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000012 LONG 1x entry=7452.50 stop=7450.00 target=7456.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000013 SHORT 1x entry=7466.25 stop=7468.75 target=7462.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000013: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000014 LONG 1x entry=7463.25 stop=7460.75 target=7466.75 strategy=CONFLUENCE_LONG | Long confluence score=6: EMA/VWAP trend pullback; liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000015 SHORT 1x entry=7480.50 stop=7483.00 target=7477.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-25
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000016 LONG 1x entry=7450.75 stop=7448.25 target=7454.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000017 SHORT 1x entry=7459.00 stop=7461.50 target=7455.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000017: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] New session: 2026-06-26
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000018 SHORT 1x entry=7420.50 stop=7423.00 target=7417.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000018: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000019 SHORT 1x entry=7422.25 stop=7424.75 target=7418.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000020 LONG 1x entry=7418.75 stop=7416.25 target=7422.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000020: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000021 SHORT 1x entry=7422.50 stop=7425.00 target=7419.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:14:54] [INFO] OPEN PAPER-000022 SHORT 1x entry=7451.00 stop=7453.50 target=7447.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:14:54] [INFO] Closed PAPER-000022: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-19
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000001 LONG 1x entry=7560.25 stop=7557.75 target=7563.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000002 LONG 1x entry=7559.50 stop=7557.00 target=7563.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000002: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-21
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-22
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000003 SHORT 1x entry=7591.75 stop=7594.25 target=7588.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: liquidity sweep reject
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000004 LONG 1x entry=7590.50 stop=7588.00 target=7594.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000005 SHORT 1x entry=7577.50 stop=7580.00 target=7574.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000005: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000006 LONG 1x entry=7572.25 stop=7569.75 target=7575.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000007 SHORT 1x entry=7544.75 stop=7547.25 target=7541.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-23
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000008 SHORT 1x entry=7457.75 stop=7460.25 target=7454.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000009 SHORT 1x entry=7473.75 stop=7476.25 target=7470.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-24
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000010 SHORT 1x entry=7448.75 stop=7451.25 target=7445.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000011 SHORT 1x entry=7444.00 stop=7446.50 target=7440.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000012 LONG 1x entry=7464.50 stop=7462.00 target=7468.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000013 SHORT 1x entry=7480.50 stop=7483.00 target=7477.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-25
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000014 LONG 1x entry=7451.25 stop=7448.75 target=7454.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000015 LONG 1x entry=7450.75 stop=7448.25 target=7454.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] New session: 2026-06-26
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000016 LONG 1x entry=7386.25 stop=7383.75 target=7389.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000017 SHORT 1x entry=7420.50 stop=7423.00 target=7417.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000018 LONG 1x entry=7425.00 stop=7422.50 target=7428.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000018: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:22:43] [INFO] OPEN PAPER-000019 LONG 1x entry=7428.75 stop=7426.25 target=7432.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:22:43] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-05-26
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000001 LONG 1x entry=7540.25 stop=7537.75 target=7543.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000001: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000002 LONG 1x entry=7544.00 stop=7541.50 target=7547.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000003 LONG 1x entry=7546.50 stop=7544.00 target=7550.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000004 LONG 1x entry=7551.25 stop=7548.75 target=7554.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000005 LONG 1x entry=7551.75 stop=7549.25 target=7555.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-05-27
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000006 SHORT 1x entry=7528.75 stop=7531.25 target=7525.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000007 SHORT 1x entry=7536.00 stop=7538.50 target=7532.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000007: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000008 SHORT 1x entry=7532.00 stop=7534.50 target=7528.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000009 SHORT 1x entry=7534.00 stop=7536.50 target=7530.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-05-28
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000010 SHORT 1x entry=7527.25 stop=7529.75 target=7523.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000011 SHORT 1x entry=7533.25 stop=7535.75 target=7529.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000011: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-05-29
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000012 LONG 1x entry=7607.50 stop=7605.00 target=7611.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000012: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000013 LONG 1x entry=7609.50 stop=7607.00 target=7613.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000014 LONG 1x entry=7608.50 stop=7606.00 target=7612.00 strategy=CONFLUENCE_LONG | Long confluence score=6: EMA/VWAP trend pullback; liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-05-31
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-01
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000015 SHORT 1x entry=7586.25 stop=7588.75 target=7582.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000016 SHORT 1x entry=7583.75 stop=7586.25 target=7580.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-02
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000017 LONG 1x entry=7604.25 stop=7601.75 target=7607.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000017: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000018 LONG 1x entry=7603.25 stop=7600.75 target=7606.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000018: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-03
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000019 LONG 1x entry=7578.50 stop=7576.00 target=7582.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000020 LONG 1x entry=7582.00 stop=7579.50 target=7585.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000020: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000021 SHORT 1x entry=7585.00 stop=7587.50 target=7581.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000022 SHORT 1x entry=7586.25 stop=7588.75 target=7582.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000022: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-04
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000023 LONG 1x entry=7558.00 stop=7555.50 target=7561.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000023: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000024 SHORT 1x entry=7555.50 stop=7558.00 target=7552.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-05
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000025 SHORT 1x entry=7522.75 stop=7525.25 target=7519.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000025: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000026 SHORT 1x entry=7522.50 stop=7525.00 target=7519.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000026: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000027 SHORT 1x entry=7518.75 stop=7521.25 target=7515.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000027: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000028 SHORT 1x entry=7513.75 stop=7516.25 target=7510.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000028: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000029 SHORT 1x entry=7510.25 stop=7512.75 target=7506.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000029: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-07
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-08
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000030 SHORT 1x entry=7455.25 stop=7457.75 target=7451.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000030: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000031 LONG 1x entry=7434.75 stop=7432.25 target=7438.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000031: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000032 SHORT 1x entry=7439.50 stop=7442.00 target=7436.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000032: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000033 SHORT 1x entry=7435.00 stop=7437.50 target=7431.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000033: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-09
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000034 LONG 1x entry=7483.75 stop=7481.25 target=7487.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000034: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000035 SHORT 1x entry=7436.25 stop=7438.75 target=7432.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000035: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] New session: 2026-06-10
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000036 SHORT 1x entry=7386.75 stop=7389.25 target=7383.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000036: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000037 LONG 1x entry=7377.00 stop=7374.50 target=7380.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000037: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000038 LONG 1x entry=7379.50 stop=7377.00 target=7383.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000038: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000039 LONG 1x entry=7383.50 stop=7381.00 target=7387.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000039: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:05] [INFO] OPEN PAPER-000040 LONG 1x entry=7389.00 stop=7386.50 target=7392.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:05] [INFO] Closed PAPER-000040: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:06] [INFO] New session: 2026-06-11
+[2026-06-27 01:53:06] [INFO] OPEN PAPER-000041 SHORT 1x entry=7330.25 stop=7332.75 target=7326.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:06] [INFO] Closed PAPER-000041: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:06] [INFO] OPEN PAPER-000042 LONG 1x entry=7323.75 stop=7321.25 target=7327.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:06] [INFO] Closed PAPER-000042: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:06] [INFO] OPEN PAPER-000043 SHORT 1x entry=7329.75 stop=7332.25 target=7326.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 01:53:06] [INFO] Closed PAPER-000043: TAKE_PROFIT PnL=$15.00
+[2026-06-27 01:53:06] [INFO] OPEN PAPER-000044 LONG 1x entry=7330.50 stop=7328.00 target=7334.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:06] [INFO] Closed PAPER-000044: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:06] [INFO] OPEN PAPER-000045 LONG 1x entry=7326.25 stop=7323.75 target=7329.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 01:53:06] [INFO] Closed PAPER-000045: STOP_LOSS PnL=$-15.00
+[2026-06-27 01:53:06] [INFO] New session: 2026-06-12
+[2026-06-27 02:09:22] [INFO] New session: 2026-05-26
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000001 LONG 1x entry=7540.25 stop=7537.75 target=7546.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000001: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000002 LONG 1x entry=7546.50 stop=7544.00 target=7553.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000002: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000003 LONG 1x entry=7553.50 stop=7551.00 target=7560.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000004 LONG 1x entry=7555.00 stop=7552.50 target=7561.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-05-27
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000005 SHORT 1x entry=7528.75 stop=7531.25 target=7522.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000006 SHORT 1x entry=7536.00 stop=7538.50 target=7529.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-05-28
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000007 SHORT 1x entry=7527.25 stop=7529.75 target=7520.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000008 SHORT 1x entry=7533.25 stop=7535.75 target=7526.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-05-29
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000009 LONG 1x entry=7607.50 stop=7605.00 target=7614.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000010 LONG 1x entry=7606.00 stop=7603.50 target=7612.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-05-31
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-01
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000011 SHORT 1x entry=7586.25 stop=7588.75 target=7579.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000011: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000012 SHORT 1x entry=7583.75 stop=7586.25 target=7577.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-02
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000013 LONG 1x entry=7604.25 stop=7601.75 target=7610.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000014 LONG 1x entry=7603.25 stop=7600.75 target=7609.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-03
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000015 LONG 1x entry=7578.50 stop=7576.00 target=7585.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000016 LONG 1x entry=7582.00 stop=7579.50 target=7588.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000016: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000017 SHORT 1x entry=7585.00 stop=7587.50 target=7578.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000017: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000018 SHORT 1x entry=7586.25 stop=7588.75 target=7579.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000018: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-04
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000019 LONG 1x entry=7558.00 stop=7555.50 target=7564.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000020 SHORT 1x entry=7555.50 stop=7558.00 target=7549.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000020: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-05
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000021 SHORT 1x entry=7522.75 stop=7525.25 target=7516.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000022 SHORT 1x entry=7522.50 stop=7525.00 target=7516.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000022: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000023 SHORT 1x entry=7513.75 stop=7516.25 target=7507.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000023: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000024 SHORT 1x entry=7510.25 stop=7512.75 target=7503.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-07
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-08
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000025 SHORT 1x entry=7455.25 stop=7457.75 target=7448.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000025: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000026 LONG 1x entry=7434.75 stop=7432.25 target=7441.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000026: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000027 SHORT 1x entry=7439.50 stop=7442.00 target=7433.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000027: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000028 SHORT 1x entry=7435.00 stop=7437.50 target=7428.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000028: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-09
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000029 LONG 1x entry=7483.75 stop=7481.25 target=7490.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000029: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000030 SHORT 1x entry=7436.25 stop=7438.75 target=7429.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000030: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-10
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000031 SHORT 1x entry=7386.75 stop=7389.25 target=7380.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000031: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000032 LONG 1x entry=7377.00 stop=7374.50 target=7383.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000032: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000033 LONG 1x entry=7379.50 stop=7377.00 target=7386.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000033: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000034 LONG 1x entry=7383.50 stop=7381.00 target=7390.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000034: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000035 LONG 1x entry=7389.00 stop=7386.50 target=7395.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000035: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-11
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000036 SHORT 1x entry=7330.25 stop=7332.75 target=7323.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000036: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000037 LONG 1x entry=7323.75 stop=7321.25 target=7330.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000037: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000038 SHORT 1x entry=7329.75 stop=7332.25 target=7323.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000038: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000039 LONG 1x entry=7326.25 stop=7323.75 target=7332.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000039: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] OPEN PAPER-000040 LONG 1x entry=7329.50 stop=7327.00 target=7336.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:09:23] [INFO] Closed PAPER-000040: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:09:23] [INFO] New session: 2026-06-12
+[2026-06-27 02:52:35] [INFO] New session: 2026-05-26
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000001 LONG 1x entry=7540.00 stop=7537.50 target=7546.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000001: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000002 SHORT 1x entry=7545.00 stop=7547.50 target=7538.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000002: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000003 LONG 1x entry=7546.50 stop=7544.00 target=7553.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000003: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000004 LONG 1x entry=7553.50 stop=7551.00 target=7560.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000004: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000005 LONG 1x entry=7554.75 stop=7552.25 target=7561.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000005: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-05-27
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000006 SHORT 1x entry=7529.00 stop=7531.50 target=7522.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000006: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000007 SHORT 1x entry=7536.00 stop=7538.50 target=7529.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-05-28
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000008 SHORT 1x entry=7527.25 stop=7529.75 target=7520.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000009 SHORT 1x entry=7533.25 stop=7535.75 target=7526.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000009: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-05-29
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000010 LONG 1x entry=7607.75 stop=7605.25 target=7614.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000010: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000011 LONG 1x entry=7605.75 stop=7603.25 target=7612.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000011: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-05-31
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-01
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000012 SHORT 1x entry=7586.25 stop=7588.75 target=7579.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000013 SHORT 1x entry=7583.75 stop=7586.25 target=7577.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-02
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000014 LONG 1x entry=7604.25 stop=7601.75 target=7610.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000015 LONG 1x entry=7603.25 stop=7600.75 target=7609.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-03
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000016 LONG 1x entry=7578.25 stop=7575.75 target=7584.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000017 LONG 1x entry=7581.75 stop=7579.25 target=7588.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000017: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000018 SHORT 1x entry=7585.00 stop=7587.50 target=7578.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000018: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000019 SHORT 1x entry=7586.00 stop=7588.50 target=7579.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-04
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000020 LONG 1x entry=7558.00 stop=7555.50 target=7564.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000020: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000021 SHORT 1x entry=7555.50 stop=7558.00 target=7549.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-05
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000022 SHORT 1x entry=7523.00 stop=7525.50 target=7516.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000022: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000023 SHORT 1x entry=7522.50 stop=7525.00 target=7516.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000023: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000024 SHORT 1x entry=7514.00 stop=7516.50 target=7507.50 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000025 SHORT 1x entry=7510.25 stop=7512.75 target=7503.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000025: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-07
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-08
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000026 SHORT 1x entry=7455.25 stop=7457.75 target=7448.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000026: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000027 LONG 1x entry=7435.00 stop=7432.50 target=7441.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000027: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000028 SHORT 1x entry=7439.50 stop=7442.00 target=7433.00 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000028: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000029 SHORT 1x entry=7434.75 stop=7437.25 target=7428.25 strategy=CONFLUENCE_SHORT | Short confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000029: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-09
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000030 LONG 1x entry=7483.75 stop=7481.25 target=7490.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000030: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000031 SHORT 1x entry=7436.50 stop=7439.00 target=7430.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000031: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-10
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000032 SHORT 1x entry=7387.00 stop=7389.50 target=7380.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000032: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000033 LONG 1x entry=7377.25 stop=7374.75 target=7383.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000033: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000034 LONG 1x entry=7379.25 stop=7376.75 target=7385.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000034: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000035 LONG 1x entry=7384.00 stop=7381.50 target=7390.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000035: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000036 LONG 1x entry=7389.00 stop=7386.50 target=7395.50 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000036: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-11
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000037 SHORT 1x entry=7330.25 stop=7332.75 target=7323.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000037: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000038 LONG 1x entry=7323.75 stop=7321.25 target=7330.25 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000038: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000039 SHORT 1x entry=7330.00 stop=7332.50 target=7323.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000039: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000040 LONG 1x entry=7326.25 stop=7323.75 target=7332.75 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000040: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] OPEN PAPER-000041 LONG 1x entry=7329.50 stop=7327.00 target=7336.00 strategy=CONFLUENCE_LONG | Long confluence score=2: EMA/VWAP trend pullback
+[2026-06-27 02:52:35] [INFO] Closed PAPER-000041: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:52:35] [INFO] New session: 2026-06-12
+[2026-06-27 02:57:10] [INFO] New session: 2026-05-26
+[2026-06-27 02:57:10] [INFO] OPEN PAPER-000001 SHORT 1x entry=7540.25 stop=7542.75 target=7533.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: liquidity sweep reject
+[2026-06-27 02:57:10] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:10] [INFO] OPEN PAPER-000002 SHORT 1x entry=7545.00 stop=7547.50 target=7538.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:10] [INFO] Closed PAPER-000002: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-05-27
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000003 SHORT 1x entry=7536.00 stop=7538.50 target=7529.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000004 SHORT 1x entry=7540.50 stop=7543.00 target=7534.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000005 LONG 1x entry=7531.75 stop=7529.25 target=7538.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000005: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000006 SHORT 1x entry=7541.75 stop=7544.25 target=7535.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000006: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000007 LONG 1x entry=7525.75 stop=7523.25 target=7532.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-05-28
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000008 SHORT 1x entry=7533.25 stop=7535.75 target=7526.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000009 SHORT 1x entry=7564.75 stop=7567.25 target=7558.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000009: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000010 LONG 1x entry=7557.50 stop=7555.00 target=7564.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000011 SHORT 1x entry=7559.50 stop=7562.00 target=7553.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000012 SHORT 1x entry=7556.50 stop=7559.00 target=7550.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-05-29
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000013 LONG 1x entry=7608.75 stop=7606.25 target=7615.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000014 LONG 1x entry=7605.75 stop=7603.25 target=7612.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-05-31
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-01
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000015 LONG 1x entry=7589.00 stop=7586.50 target=7595.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000016 LONG 1x entry=7584.50 stop=7582.00 target=7591.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-02
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000017 SHORT 1x entry=7604.50 stop=7607.00 target=7598.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000017: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000018 LONG 1x entry=7605.00 stop=7602.50 target=7611.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000018: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000019 SHORT 1x entry=7613.75 stop=7616.25 target=7607.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000020 SHORT 1x entry=7624.25 stop=7626.75 target=7617.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000020: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-03
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000021 LONG 1x entry=7578.25 stop=7575.75 target=7584.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000022 LONG 1x entry=7581.75 stop=7579.25 target=7588.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000022: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000023 SHORT 1x entry=7594.75 stop=7597.25 target=7588.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000023: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000024 LONG 1x entry=7582.75 stop=7580.25 target=7589.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000025 LONG 1x entry=7580.00 stop=7577.50 target=7586.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000025: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-04
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000026 SHORT 1x entry=7555.50 stop=7558.00 target=7549.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000026: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000027 LONG 1x entry=7564.75 stop=7562.25 target=7571.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000027: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-05
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000028 SHORT 1x entry=7530.25 stop=7532.75 target=7523.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000028: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000029 LONG 1x entry=7516.25 stop=7513.75 target=7522.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000029: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000030 LONG 1x entry=7519.75 stop=7517.25 target=7526.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000030: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000031 SHORT 1x entry=7521.75 stop=7524.25 target=7515.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000031: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000032 LONG 1x entry=7506.75 stop=7504.25 target=7513.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000032: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-07
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-08
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000033 SHORT 1x entry=7455.25 stop=7457.75 target=7448.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000033: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000034 LONG 1x entry=7435.00 stop=7432.50 target=7441.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000034: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000035 LONG 1x entry=7438.50 stop=7436.00 target=7445.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000035: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000036 SHORT 1x entry=7472.25 stop=7474.75 target=7465.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000036: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-09
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000037 SHORT 1x entry=7436.50 stop=7439.00 target=7430.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000037: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000038 LONG 1x entry=7427.00 stop=7424.50 target=7433.50 strategy=CONFLUENCE_LONG | Long confluence score=2: liquidity sweep reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000038: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000039 SHORT 1x entry=7340.50 stop=7343.00 target=7334.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000039: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000040 LONG 1x entry=7313.50 stop=7311.00 target=7320.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000040: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-10
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000041 SHORT 1x entry=7387.00 stop=7389.50 target=7380.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000041: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000042 LONG 1x entry=7345.25 stop=7342.75 target=7351.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000042: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000043 LONG 1x entry=7327.00 stop=7324.50 target=7333.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000043: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000044 SHORT 1x entry=7338.50 stop=7341.00 target=7332.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000044: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-11
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000045 SHORT 1x entry=7330.25 stop=7332.75 target=7323.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000045: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000046 SHORT 1x entry=7330.00 stop=7332.50 target=7323.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000046: TAKE_PROFIT PnL=$30.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000047 LONG 1x entry=7308.75 stop=7306.25 target=7315.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000047: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] OPEN PAPER-000048 LONG 1x entry=7300.75 stop=7298.25 target=7307.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 02:57:11] [INFO] Closed PAPER-000048: STOP_LOSS PnL=$-15.00
+[2026-06-27 02:57:11] [INFO] New session: 2026-06-12
+[2026-06-27 03:07:14] [INFO] New session: 2026-05-26
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000001 SHORT 1x entry=7540.25 stop=7542.75 target=7533.75 strategy=CONFLUENCE_SHORT | Short confluence score=2: liquidity sweep reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000001: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000002 SHORT 1x entry=7545.00 stop=7547.50 target=7538.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000002: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-05-27
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000003 SHORT 1x entry=7536.00 stop=7538.50 target=7529.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000003: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000004 SHORT 1x entry=7540.50 stop=7543.00 target=7534.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000004: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000005 LONG 1x entry=7531.75 stop=7529.25 target=7538.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000005: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000006 SHORT 1x entry=7541.75 stop=7544.25 target=7535.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000006: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000007 LONG 1x entry=7525.75 stop=7523.25 target=7532.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000007: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-05-28
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000008 SHORT 1x entry=7533.25 stop=7535.75 target=7526.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000008: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000009 SHORT 1x entry=7564.75 stop=7567.25 target=7558.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000009: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000010 LONG 1x entry=7557.50 stop=7555.00 target=7564.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000010: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000011 SHORT 1x entry=7559.50 stop=7562.00 target=7553.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000011: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000012 SHORT 1x entry=7556.50 stop=7559.00 target=7550.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000012: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-05-29
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000013 LONG 1x entry=7608.75 stop=7606.25 target=7615.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000013: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000014 LONG 1x entry=7605.75 stop=7603.25 target=7612.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000014: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-05-31
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-01
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000015 LONG 1x entry=7589.00 stop=7586.50 target=7595.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000015: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000016 LONG 1x entry=7584.50 stop=7582.00 target=7591.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000016: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-02
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000017 SHORT 1x entry=7604.50 stop=7607.00 target=7598.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000017: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000018 LONG 1x entry=7605.00 stop=7602.50 target=7611.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000018: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000019 SHORT 1x entry=7613.75 stop=7616.25 target=7607.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000019: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000020 SHORT 1x entry=7624.25 stop=7626.75 target=7617.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000020: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-03
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000021 LONG 1x entry=7578.25 stop=7575.75 target=7584.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000021: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000022 LONG 1x entry=7581.75 stop=7579.25 target=7588.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000022: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000023 SHORT 1x entry=7594.75 stop=7597.25 target=7588.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000023: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000024 LONG 1x entry=7582.75 stop=7580.25 target=7589.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000024: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000025 LONG 1x entry=7580.00 stop=7577.50 target=7586.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000025: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-04
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000026 SHORT 1x entry=7555.50 stop=7558.00 target=7549.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000026: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000027 LONG 1x entry=7564.75 stop=7562.25 target=7571.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000027: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-05
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000028 SHORT 1x entry=7530.25 stop=7532.75 target=7523.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000028: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000029 LONG 1x entry=7516.25 stop=7513.75 target=7522.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000029: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000030 LONG 1x entry=7519.75 stop=7517.25 target=7526.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000030: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000031 SHORT 1x entry=7521.75 stop=7524.25 target=7515.25 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000031: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000032 LONG 1x entry=7506.75 stop=7504.25 target=7513.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000032: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-07
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-08
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000033 SHORT 1x entry=7455.25 stop=7457.75 target=7448.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000033: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000034 LONG 1x entry=7435.00 stop=7432.50 target=7441.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000034: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000035 LONG 1x entry=7438.50 stop=7436.00 target=7445.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000035: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000036 SHORT 1x entry=7472.25 stop=7474.75 target=7465.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000036: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-09
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000037 SHORT 1x entry=7436.50 stop=7439.00 target=7430.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000037: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000038 LONG 1x entry=7427.00 stop=7424.50 target=7433.50 strategy=CONFLUENCE_LONG | Long confluence score=2: liquidity sweep reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000038: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000039 SHORT 1x entry=7340.50 stop=7343.00 target=7334.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000039: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000040 LONG 1x entry=7313.50 stop=7311.00 target=7320.00 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000040: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-10
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000041 SHORT 1x entry=7387.00 stop=7389.50 target=7380.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000041: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000042 LONG 1x entry=7345.25 stop=7342.75 target=7351.75 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000042: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000043 LONG 1x entry=7327.00 stop=7324.50 target=7333.50 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000043: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000044 SHORT 1x entry=7338.50 stop=7341.00 target=7332.00 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000044: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-11
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000045 SHORT 1x entry=7330.25 stop=7332.75 target=7323.75 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000045: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000046 SHORT 1x entry=7330.00 stop=7332.50 target=7323.50 strategy=CONFLUENCE_SHORT | Short confluence score=4: liquidity sweep reject; failed breakout reject
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000046: TAKE_PROFIT PnL=$30.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000047 LONG 1x entry=7308.75 stop=7306.25 target=7315.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000047: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] OPEN PAPER-000048 LONG 1x entry=7300.75 stop=7298.25 target=7307.25 strategy=CONFLUENCE_LONG | Long confluence score=4: liquidity sweep reclaim; failed breakdown reclaim
+[2026-06-27 03:07:15] [INFO] Closed PAPER-000048: STOP_LOSS PnL=$-15.00
+[2026-06-27 03:07:15] [INFO] New session: 2026-06-12
